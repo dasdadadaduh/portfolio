@@ -61,4 +61,5 @@ Certificate in Programming Essentials | DeVry University (_July 2025_)
 
 
 ### Projects
-OOP Application 
+
+[Stock Portfolio Application] ([https:www.](https://github.com/dasdadadaduh/stock-portfolio-application))

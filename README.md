@@ -1,22 +1,17 @@
 # Data Analyst
 
-### Education
-BS Software Development, Concentration: Software Design & Programming
-DeVry University 
-Expected December 2026
- 
-AS in Computer Software and Media Applications
-DeVry University 
-Graduated July 2025
+####Technical Skills: Python, SQL, Java, MATLAB, pandas,  
 
-Certificate in Programming Essentials
-DeVry University
-Received July 2025
+## Education
+BS Software Development, Concentration: Software Design & Programming | DeVry University (_Expected December 2026_)
+ 
+AS in Computer Software and Media Applications | DeVry University (_July 2025_)
+
+Certificate in Programming Essentials | DeVry University (_July 2025_)
  
 
-### Work Experience
-Marketing Manager
-
+## Work Experience
+**Marketing Manager @ Instyleversity (_April 2021 - Present_)**
 
 ###Projects
 OOP Application 

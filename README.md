@@ -1,8 +1,31 @@
-#Hi, I'm Ayshia. Pronounced like the continent. 
-##I'm an aspiring Data Scientist with software developer tendencies. 
+# Hi, I'm Ayshia.
+.wave {
+  animation-name: wave-animation;  /* Name of @keyframes element below */
+  animation-duration: .75s;  /* Wave speed */
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-play-state: paused;
+  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
+  display: inline-block;
+  font-size: 8rem;
+}
+
+.wave:hover {
+  animation-play-state: running; /* Play animation on mouse hover */
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate( 0deg ) }
+  25% { transform: rotate( -10deg ) }
+  75% { transform: rotate( 12deg ) }
+  100% { transform: rotate( 0deg ) }
+} 
+(pronounced like the continent)
+## I'm an aspiring Data Scientist with software developer tendencies. 
 
 #### Programming Languages: 
 Python, SQL, Java, MATLAB, pandas
+
 #### Technical Skills: 
 Performance Monitoring (Google Analytics, PowerBI, Tableau)
 A/B Testing
@@ -12,6 +35,7 @@ Product Analytics
 Digital Merchandising (Shopify, Squarespace)
 User Research
 Product Roadmap Development 
+
 #### Professional Skills:
 Cross Functional Collaboration
 Project Management (Jira, Motion.io, Sprint Planning)

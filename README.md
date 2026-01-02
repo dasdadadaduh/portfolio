@@ -1,6 +1,5 @@
-# Hi, I'm Ayshia.
-(pronounced like the continent)
-## I'm an aspiring Data Scientist with software developer tendencies. 
+# Hi, I'm Ayshia. (pronounced like the continent)
+### I'm an aspiring Data Scientist with software developer tendencies. 
 
 #### Programming Languages: 
 Python, SQL, Java, MATLAB, pandas

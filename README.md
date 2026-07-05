@@ -1,35 +1,30 @@
 # Hi, I'm Ayshia. (pronounced like the continent)
-### I'm an aspiring Data Scientist with software developer tendencies. 
+### I'm an aspiring Cloud Solutions Arcitect under the guise of a Technical Systems Analyst and the cape of an entrepreneur who likes to throw very fashionable fits. 
 
 #### Programming Languages: 
-Python, SQL, Java, MATLAB, pandas
+Python, SQL, Java, MATLAB, pandas, HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, React Query
 
-#### Technical Skills: 
-Performance Monitoring (Google Analytics, PowerBI, Tableau)
-A/B Testing
-Site Optimization
-E-Commerce Strategy
-Product Analytics
-Digital Merchandising (Shopify, Squarespace)
-User Research
-Product Roadmap Development 
+### Technical Skills:
 
-#### Professional Skills:
-Cross Functional Collaboration
-Project Management (Jira, Motion.io, Sprint Planning)
-Strategic Planning & Communication
-Stakeholder Management
-Agile Methodologies 
+#### Cloud & Infrastructure: 
+AWS, Google Cloud Platform, REST APIs, OAuth, Authentication
+ 
+#### AI & Automation: 
+LLM Integration, Workflow Automation, Prompt Engineering, AI-Assisted Development, Business Process Automation
+ 
+#### Analytics & Data:
+Google Analytics, Looker Studio, SQL, Data Visualization, KPI Reporting, UML, Experiment Design, A/B Testing, Business Intelligence, System Architecture, Data Flow Diagrams 
 
 
 ## Education
 BS Software Development, Concentration: Software Design & Programming | DeVry University (_Expected December 2026_)
 AS in Computer Software and Media Applications | DeVry University (_July 2025_)
 Certificate in Programming Essentials | DeVry University (_July 2025_)
+AS in Information Systems Management | John Tyler Community College (_June_2016_)
  
 
 ## Work Experience
-**Marketing Manager @ Instyleversity (_April 2021 - Present_)**
+**CEO, Founder @ Instyleversity (_June 2024 - Present_)**
 •	Engaged directly with stakeholders and cross-functional teams to collect project requirements, translating business needs into actionable technical specifications for alignment between marketing and development teams. 
 
 •	Documented detailed security and workflow processes, contributing to improved operational efficiency and compliance standards within the organization.
@@ -46,7 +41,7 @@ Certificate in Programming Essentials | DeVry University (_July 2025_)
 
 •	Applied time series analysis to track fluctuations in organic traffic and measure the impact of algorithm updates or campaign changes.  
 
-**Google Ads Specialist @ Third Marble Marketing (April 2022 – October 2022)**
+**Search Engine Optimization Lead @ Third Marble Marketing (June 2024 – April 2022)**
 
 •	Managed and optimized Google Ads campaigns across Search with a focus on ROI and conversion tracking.
 
@@ -62,7 +57,21 @@ Certificate in Programming Essentials | DeVry University (_July 2025_)
 
 •	Reduced overall ad spend by identifying low-performing campaigns and improving ad relevance, resulting in a 25% increase in ROAS. 
 
+**Google Ads Specialist @ Third Marble Marketing (April 2022 – October 2022)**
 
+•	Managed and optimized Google Ads campaigns across Search with a focus on ROI and conversion tracking.
+
+•	Conducted A/B testing on ad creatives, headlines, and landing pages to improve click-through and conversion rates by 12%.
+
+•	Analyzed campaign performance data using Google Analytics, Google Ads Dashboard, and reporting software to generate actionable insights that informed stakeholder budget allocation decisions.
+
+•	Monitored key metrics including CPC, CTR, Quality Score, Conversion Rate, and ROAS to identify underperforming ads and reallocate budget accordingly.
+
+•	Researched market trends and competitor strategies to identify optimization opportunities and reallocate resources for maximum impact.
+
+•	Implemented audience segmentation strategies to tailor campaigns based on demographics, interests, and buyer behavior.
+
+•	Reduced overall ad spend by identifying low-performing campaigns and improving ad relevance, resulting in a 25% increase in ROAS. 
 ### Projects
 
 [Stock Portfolio Application] (https://github.com/dasdadadaduh/stock-portfolio-application)
